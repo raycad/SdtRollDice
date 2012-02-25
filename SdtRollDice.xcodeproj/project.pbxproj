@@ -7,85 +7,85 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		76782D8814F93C08002F513F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782D8714F93C08002F513F /* UIKit.framework */; };
-		76782D8A14F93C08002F513F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782D8914F93C08002F513F /* Foundation.framework */; };
-		76782D8C14F93C08002F513F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782D8B14F93C08002F513F /* CoreGraphics.framework */; };
-		76782D9214F93C09002F513F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76782D9014F93C09002F513F /* InfoPlist.strings */; };
-		76782D9414F93C09002F513F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76782D9314F93C09002F513F /* main.m */; };
-		76782D9814F93C09002F513F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76782D9714F93C09002F513F /* AppDelegate.m */; };
+		76782DB214F93DC3002F513F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782DB114F93DC3002F513F /* UIKit.framework */; };
+		76782DB414F93DC3002F513F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782DB314F93DC3002F513F /* Foundation.framework */; };
+		76782DB614F93DC3002F513F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76782DB514F93DC3002F513F /* CoreGraphics.framework */; };
+		76782DBC14F93DC3002F513F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76782DBA14F93DC3002F513F /* InfoPlist.strings */; };
+		76782DBE14F93DC3002F513F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76782DBD14F93DC3002F513F /* main.m */; };
+		76782DC214F93DC3002F513F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76782DC114F93DC3002F513F /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		76782D8314F93C08002F513F /* SdtRollDice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SdtRollDice.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		76782D8714F93C08002F513F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		76782D8914F93C08002F513F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		76782D8B14F93C08002F513F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		76782D8F14F93C08002F513F /* SdtRollDice-Info.plist */ = {isa = PBXFileReference; path = "SdtRollDice-Info.plist"; sourceTree = "<group>"; };
-		76782D9114F93C09002F513F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		76782D9314F93C09002F513F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		76782D9514F93C09002F513F /* SdtRollDice-Prefix.pch */ = {isa = PBXFileReference; path = "SdtRollDice-Prefix.pch"; sourceTree = "<group>"; };
-		76782D9614F93C09002F513F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
-		76782D9714F93C09002F513F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		76782DAD14F93DC3002F513F /* SdtRollDice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SdtRollDice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		76782DB114F93DC3002F513F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		76782DB314F93DC3002F513F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		76782DB514F93DC3002F513F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		76782DB914F93DC3002F513F /* SdtRollDice-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SdtRollDice-Info.plist"; sourceTree = "<group>"; };
+		76782DBB14F93DC3002F513F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		76782DBD14F93DC3002F513F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		76782DBF14F93DC3002F513F /* SdtRollDice-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SdtRollDice-Prefix.pch"; sourceTree = "<group>"; };
+		76782DC014F93DC3002F513F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		76782DC114F93DC3002F513F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		76782D8014F93C08002F513F /* Frameworks */ = {
+		76782DAA14F93DC3002F513F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76782D8814F93C08002F513F /* UIKit.framework in Frameworks */,
-				76782D8A14F93C08002F513F /* Foundation.framework in Frameworks */,
-				76782D8C14F93C08002F513F /* CoreGraphics.framework in Frameworks */,
+				76782DB214F93DC3002F513F /* UIKit.framework in Frameworks */,
+				76782DB414F93DC3002F513F /* Foundation.framework in Frameworks */,
+				76782DB614F93DC3002F513F /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		76782D7814F93C08002F513F = {
+		76782DA214F93DC3002F513F = {
 			isa = PBXGroup;
 			children = (
-				76782D8D14F93C08002F513F /* SdtRollDice */,
-				76782D8614F93C08002F513F /* Frameworks */,
-				76782D8414F93C08002F513F /* Products */,
+				76782DB714F93DC3002F513F /* SdtRollDice */,
+				76782DB014F93DC3002F513F /* Frameworks */,
+				76782DAE14F93DC3002F513F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		76782D8414F93C08002F513F /* Products */ = {
+		76782DAE14F93DC3002F513F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				76782D8314F93C08002F513F /* SdtRollDice.app */,
+				76782DAD14F93DC3002F513F /* SdtRollDice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		76782D8614F93C08002F513F /* Frameworks */ = {
+		76782DB014F93DC3002F513F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				76782D8714F93C08002F513F /* UIKit.framework */,
-				76782D8914F93C08002F513F /* Foundation.framework */,
-				76782D8B14F93C08002F513F /* CoreGraphics.framework */,
+				76782DB114F93DC3002F513F /* UIKit.framework */,
+				76782DB314F93DC3002F513F /* Foundation.framework */,
+				76782DB514F93DC3002F513F /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		76782D8D14F93C08002F513F /* SdtRollDice */ = {
+		76782DB714F93DC3002F513F /* SdtRollDice */ = {
 			isa = PBXGroup;
 			children = (
-				76782D9614F93C09002F513F /* AppDelegate.h */,
-				76782D9714F93C09002F513F /* AppDelegate.m */,
-				76782D8E14F93C08002F513F /* Supporting Files */,
+				76782DC014F93DC3002F513F /* AppDelegate.h */,
+				76782DC114F93DC3002F513F /* AppDelegate.m */,
+				76782DB814F93DC3002F513F /* Supporting Files */,
 			);
 			path = SdtRollDice;
 			sourceTree = "<group>";
 		};
-		76782D8E14F93C08002F513F /* Supporting Files */ = {
+		76782DB814F93DC3002F513F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				76782D8F14F93C08002F513F /* SdtRollDice-Info.plist */,
-				76782D9014F93C09002F513F /* InfoPlist.strings */,
-				76782D9314F93C09002F513F /* main.m */,
-				76782D9514F93C09002F513F /* SdtRollDice-Prefix.pch */,
+				76782DB914F93DC3002F513F /* SdtRollDice-Info.plist */,
+				76782DBA14F93DC3002F513F /* InfoPlist.strings */,
+				76782DBD14F93DC3002F513F /* main.m */,
+				76782DBF14F93DC3002F513F /* SdtRollDice-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -93,13 +93,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		76782D8214F93C08002F513F /* SdtRollDice */ = {
+		76782DAC14F93DC3002F513F /* SdtRollDice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76782D9B14F93C09002F513F /* Build configuration list for PBXNativeTarget "SdtRollDice" */;
+			buildConfigurationList = 76782DC514F93DC3002F513F /* Build configuration list for PBXNativeTarget "SdtRollDice" */;
 			buildPhases = (
-				76782D7F14F93C08002F513F /* Sources */,
-				76782D8014F93C08002F513F /* Frameworks */,
-				76782D8114F93C08002F513F /* Resources */,
+				76782DA914F93DC3002F513F /* Sources */,
+				76782DAA14F93DC3002F513F /* Frameworks */,
+				76782DAB14F93DC3002F513F /* Resources */,
 			);
 			buildRules = (
 			);
@@ -107,62 +107,62 @@
 			);
 			name = SdtRollDice;
 			productName = SdtRollDice;
-			productReference = 76782D8314F93C08002F513F /* SdtRollDice.app */;
+			productReference = 76782DAD14F93DC3002F513F /* SdtRollDice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		76782D7A14F93C08002F513F /* Project object */ = {
+		76782DA414F93DC3002F513F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
 			};
-			buildConfigurationList = 76782D7D14F93C08002F513F /* Build configuration list for PBXProject "SdtRollDice" */;
+			buildConfigurationList = 76782DA714F93DC3002F513F /* Build configuration list for PBXProject "SdtRollDice" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 76782D7814F93C08002F513F;
-			productRefGroup = 76782D8414F93C08002F513F /* Products */;
+			mainGroup = 76782DA214F93DC3002F513F;
+			productRefGroup = 76782DAE14F93DC3002F513F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				76782D8214F93C08002F513F /* SdtRollDice */,
+				76782DAC14F93DC3002F513F /* SdtRollDice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		76782D8114F93C08002F513F /* Resources */ = {
+		76782DAB14F93DC3002F513F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76782D9214F93C09002F513F /* InfoPlist.strings in Resources */,
+				76782DBC14F93DC3002F513F /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		76782D7F14F93C08002F513F /* Sources */ = {
+		76782DA914F93DC3002F513F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76782D9414F93C09002F513F /* main.m in Sources */,
-				76782D9814F93C09002F513F /* AppDelegate.m in Sources */,
+				76782DBE14F93DC3002F513F /* main.m in Sources */,
+				76782DC214F93DC3002F513F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		76782D9014F93C09002F513F /* InfoPlist.strings */ = {
+		76782DBA14F93DC3002F513F /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				76782D9114F93C09002F513F /* en */,
+				76782DBB14F93DC3002F513F /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		76782D9914F93C09002F513F /* Debug */ = {
+		76782DC314F93DC3002F513F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -195,7 +195,7 @@
 			};
 			name = Debug;
 		};
-		76782D9A14F93C09002F513F /* Release */ = {
+		76782DC414F93DC3002F513F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -215,7 +215,7 @@
 			};
 			name = Release;
 		};
-		76782D9C14F93C09002F513F /* Debug */ = {
+		76782DC614F93DC3002F513F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		76782D9D14F93C09002F513F /* Release */ = {
+		76782DC714F93DC3002F513F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -240,24 +240,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		76782D7D14F93C08002F513F /* Build configuration list for PBXProject "SdtRollDice" */ = {
+		76782DA714F93DC3002F513F /* Build configuration list for PBXProject "SdtRollDice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76782D9914F93C09002F513F /* Debug */,
-				76782D9A14F93C09002F513F /* Release */,
+				76782DC314F93DC3002F513F /* Debug */,
+				76782DC414F93DC3002F513F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		76782D9B14F93C09002F513F /* Build configuration list for PBXNativeTarget "SdtRollDice" */ = {
+		76782DC514F93DC3002F513F /* Build configuration list for PBXNativeTarget "SdtRollDice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76782D9C14F93C09002F513F /* Debug */,
-				76782D9D14F93C09002F513F /* Release */,
+				76782DC614F93DC3002F513F /* Debug */,
+				76782DC714F93DC3002F513F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 76782D7A14F93C08002F513F /* Project object */;
+	rootObject = 76782DA414F93DC3002F513F /* Project object */;
 }
